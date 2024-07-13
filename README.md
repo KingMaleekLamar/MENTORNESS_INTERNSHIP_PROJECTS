@@ -15,6 +15,8 @@ This project focuses on analyzing hotel reservation data using SQL. The goal is 
 
 #### 2. YouTube Songs Analysis with Power BI
 
+link to the Project:- https://app.powerbi.com/view?r=eyJrIjoiMzc3MjE3YjYtZmZiMi00N2Q2LTkxZjAtOGE4MDViZTFmZGNhIiwidCI6IjQ2NTRiNmYxLTBlNDctNDU3OS1hOGExLTAyZmU5ZDk0M2M3YiIsImMiOjl9
+
 This project involves analyzing YouTube song data using Power BI. The objective is to visualize and understand trends in song performance, audience demographics, and other relevant metrics.
 
 **Key tasks include:**
